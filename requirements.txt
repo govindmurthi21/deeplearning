@@ -1,0 +1,9 @@
+transformers
+tensorflow
+torch==2.0.0
+torchvision
+requests==2.27.1
+pandas
+scikit-learn
+matplotlib
+seaborn
